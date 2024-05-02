@@ -1,0 +1,8 @@
+.bg_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f9;
+  height: 10vh;
+}
